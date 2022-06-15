@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "C:\\xampp\\htdocs\\myapp"
+		},
+		{
+			"path": "C:\\Users\\hp\\Desktop\\CSS TUTORIALS"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "FirstMySQLConnection",
+				"database": "myshop",
+				"username": "root",
+				"password": "root"
+			}
+		],
+		"liveServer.settings.multiRootWorkspaceName": "CSS TUTORIALS"
+	}
+}
